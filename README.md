@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**DariaVeretyak/DariaVeretyak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello everyone! 👋
 
-Here are some ideas to get you started:
+## My name is Daria and I am Junior Fronted Developer 💜
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎶 **Something about my skills:**
+
+✔️ Advanced knowledge: HTML5, CSS3, Sass (SCSS), BEM, JavaScript (ES2015 - 2019), Typescript, Git/Github, VS Code, Chrome Developer Tools (incl. React), NPM <br />
+✔️ Basic knowledge: SQL, Bootstrap, Bulma, Material UI, GULP, Fetch, REST API, Web sockets <br />
+✔️ Experience with: React, Redux, React Hook Form, React Router, Figma <br />
+🔖 Also interested (perhaps I would like to learn): React Native, Node.js. <br />
+
+:love_letter: **Contacts details:** <br />
+
++38099-663-89-62 (Telegram), <br />
+dariaveretyak@gmail.com <br />
+https://www.linkedin.com/in/daria-veretyak-625544244/
