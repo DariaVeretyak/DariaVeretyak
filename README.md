@@ -1,7 +1,7 @@
 
 Hello everyone! 👋
 
-## My name is Daria and I am Junior Fronted Developer 💜
+## My name is Daria and I am Junior Frontend Developer 💜
 
 🎶 **Something about my skills:**
 
