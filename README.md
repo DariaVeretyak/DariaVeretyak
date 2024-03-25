@@ -1,13 +1,13 @@
 
 Hello everyone! 👋
 
-## My name is Daria and I am Junior Frontend Developer 💜
+## My name is Daria and I am Frontend Developer 💜
 
 🎶 **Something about my skills:**
 
-✔️ Advanced knowledge: HTML5, CSS3, Sass (SCSS), BEM, JavaScript (ES2015 - 2019), Typescript, Git/Github, VS Code, Chrome Developer Tools (incl. React), NPM <br />
+✔️ Advanced knowledge: HTML5, CSS3, Sass (SCSS), BEM, JavaScript (ES2015 - 2019), Typescript, Git/Github, Figma, VS Code, Chrome Developer Tools (incl. React), NPM <br />
 ✔️ Basic knowledge: SQL, Bootstrap, Bulma, Material UI, GULP, Fetch, REST API, Web sockets <br />
-✔️ Experience with: React, Redux, React Hook Form, React Router, Figma <br />
+✔️ Experience with: React, Redux, React Hook Form, React Router,  <br />
 🔖 Also interested (perhaps I would like to learn): React Native, Node.js. <br />
 
 :love_letter: **Contacts details:** <br />
